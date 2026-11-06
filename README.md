@@ -33,4 +33,4 @@ compose.yaml                Orquestación local
 
 ## Referencia del repositorio
 
-https://github.com/imbryandev/turnofacil-primera-entrega
+https://github.com/imbryandev/turnofacil-integracion-continua
