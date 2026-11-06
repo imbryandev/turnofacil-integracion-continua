@@ -29,12 +29,7 @@ Crea una reserva desde la interfaz OpenAPI de la agenda (`POST /reservations`) y
 api-agenda/                 API de reservas
 servicio-notificaciones/    API de avisos simulados
 compose.yaml                Orquestación local
-entregas/                   Informe APA de la primera entrega
 ```
-
-## Documento académico
-
-[Informe de la primera entrega (DOCX)](entregas/entrega-1-turnofacil-apa.docx)
 
 ## Referencia del repositorio
 
