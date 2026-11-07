@@ -1,6 +1,6 @@
-# TurnoFácil — primera entrega
+# TurnoFácil
 
-Proyecto académico para modelar un flujo frecuente en un negocio de servicios: registrar una cita y dejar constancia de una notificación simulada. Esta entrega se centra en dos APIs independientes que se ejecutan conectadas mediante Docker Compose.
+Proyecto para modelar un flujo frecuente en un negocio de servicios: registrar una cita y dejar constancia de una notificación simulada. Esta entrega se centra en dos APIs independientes que se ejecutan conectadas mediante Docker Compose.
 
 ## Funciones
 
@@ -29,7 +29,3 @@ api-agenda/                 API de reservas
 servicio-notificaciones/    API de avisos simulados
 compose.yaml                Orquestación local
 ```
-
-## Referencia del repositorio
-
-https://github.com/imbryandev/turnofacil-integracion-continua
