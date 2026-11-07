@@ -2,12 +2,11 @@
 
 Proyecto académico para modelar un flujo frecuente en un negocio de servicios: registrar una cita y dejar constancia de una notificación simulada. Esta entrega se centra en dos APIs independientes que se ejecutan conectadas mediante Docker Compose.
 
-## Alcance de esta entrega
+## Funciones
 
 - `api-agenda`: crea, lista y consulta reservas, con persistencia SQLite.
 - `servicio-notificaciones`: recibe la solicitud interna y registra un mensaje simulado en SQLite.
 - `compose.yaml`: construye y conecta los servicios; publica los puertos 8000 y 8001 y declara volúmenes persistentes.
-- No se envían correos reales ni se incluyen aquí automatizaciones de CI de fases posteriores.
 
 ## Inicio local
 
